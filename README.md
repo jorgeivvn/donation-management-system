@@ -14,6 +14,7 @@ https://trello.com/b/I0vZ8yPP/project-4-planning
 - Django
 - Postgres
 - Javascript and jQuery
+- Bootstrap
 - HTML
 - CSS
 
@@ -51,9 +52,9 @@ https://trello.com/b/I0vZ8yPP/project-4-planning
 
 ## MVP User Stories
 
-As an orgAdmin user, I should be able to create a relief effort with resources listed on it.
-As an orgAdmin user, I should be able to update (add, delete, update) resources on a relief effort.
-As a donor, I should be able to look at a relief effort and see what resources are still needed.
-As a donor, I should be able to fulfill resource needs and see the relief effort page update.
+- As an orgAdmin user, I should be able to create a relief effort with resources listed on it.
+- As an orgAdmin user, I should be able to update (add, delete, update) resources on a relief effort.
+- As a donor, I should be able to look at a relief effort and see what resources are still needed.
+- As a donor, I should be able to fulfill resource needs and see the relief effort page update.
 
 ## Stretch Goals User Stories
